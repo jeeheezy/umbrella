@@ -3,6 +3,7 @@ GEM
   specs:
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
+    ascii_charts (0.9.1)
     domain_name (0.6.20231109)
     ffi (1.16.3)
     ffi-compiler (1.0.1)
@@ -27,6 +28,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  ascii_charts
   http
   json
 
